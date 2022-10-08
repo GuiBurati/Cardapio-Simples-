@@ -3,7 +3,7 @@ Projeto construido durante a ''Maratona Explorer 3.0'' da RocketSeat
 
 Trilha Explorer
 
-[image] https://github.com/GuiBurati/Cardapio-Simples-/blob/main/img/Cardapio.png?raw=true
+<img https://github.com/GuiBurati/Cardapio-Simples-/blob/main/img/Cardapio.png?raw=true>
 
 
 ## Tecnologias
